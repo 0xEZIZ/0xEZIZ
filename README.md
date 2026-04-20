@@ -58,15 +58,6 @@ AI-powered CAN DBC generator & automotive data tooling platform
 
 ---
 
-## 💼 Freelance & Work
-I provide solutions in:
-- Web scraping & data extraction  
-- Automation tools (Python-based)  
-- Custom scripts for data processing  
-- Automotive / CAN-related tooling (experimental & growing)
-
----
-
 ## 🧬 Philosophy
 ---
 
@@ -77,12 +68,6 @@ I provide solutions in:
 
 ## 🕶️ Identity
 > root access is not given — it is taken.
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/0xEZIZ  
-- (Fiverr / Upwork coming soon)
 
 ---
 
