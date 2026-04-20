@@ -58,11 +58,6 @@ AI-powered CAN DBC generator & automotive data tooling platform
 
 ---
 
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xEZIZ&show_icons=true&theme=dark)
-
----
-
 ## 🕶️ Identity
 > root access is not given — it is taken.
 
