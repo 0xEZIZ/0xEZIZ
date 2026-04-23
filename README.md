@@ -1,66 +1,21 @@
-# root.kernel // 0xEZIZ
+# 0xEZIZ 
 
-> CAR Hacker | Reverse Engineer | CAN Bus & ECU Specialist  
-> Exploit Dev | ASM / C / C++ / Python | Embedded & Low-Level Systems  
+**Automotive Security Researcher & Low-Level Systems Engineer**
 
----
+I build, analyze, and reverse-engineer systems at the lowest level. My focus isn't just writing code—it's understanding how systems internally work, how they fail, and how they can be controlled or exploited. From vehicle CAN networks to raw memory manipulation, I turn raw signals into actionable intelligence.
 
-## ⚡ Who Am I
-I build and analyze systems at the lowest level.
+### Domains
+- **Automotive Security:** CAN Bus manipulation, ECU communication, payload injection.
+- **Reverse Engineering:** Binary analysis, undocumented protocol decoding.
+- **Systems & Embedded:** Low-level development (ASM, C), memory logic.
+- **Automation:** Python tooling, intelligent web scraping, structured data extraction.
 
-My focus is not just writing code —  
-it is understanding how systems **really work**, how they **fail**,  
-and how they can be **controlled, automated, or exploited**.
+### Featured Projects
+* **[DBCStudio](#)** — AI-powered CAN DBC generator and automotive data tooling platform. Built to streamline reverse engineering workflows.
+* **[OpenPilot](#)** — Automotive cyber-platform for CAN exploitation, red-teaming, and safety layer bypass.
 
-From automotive networks (CAN Bus) to web data extraction,  
-I turn raw signals and data into actionable intelligence.
-
----
-
-## 🔥 Core Domains
-- 🚗 Automotive Security (CAN Bus, ECU systems)
-- 🧠 Reverse Engineering & Binary Analysis
-- ⚙️ Low-Level Development (ASM, C, memory-level logic)
-- 🐍 Python Automation & Tooling
-- 🌐 Web Scraping & Data Extraction
+### Tech Stack
+`Python` `C` `C++` `Assembly` `Linux` `CAN protocols` `Git` 
 
 ---
-
-## 🛠️ What I Build
-- 🔹 CAN Bus tools (analysis, parsing, simulation)
-- 🔹 DBC-related utilities (generation, processing)
-- 🔹 Custom reverse engineering helpers
-- 🔹 Web scraping tools (structured data extraction)
-- 🔹 Automation scripts for real-world workflows
-
----
-
-## 📂 Highlight Project
-### 🚧 DBCStudio
-AI-powered CAN DBC generator & automotive data tooling platform  
-→ Focused on simplifying CAN reverse engineering workflows
-
----
-
-## 🧠 Tech Stack
-- **Languages:** Python, C, C++, Assembly (learning deep)
-- **Domains:** Embedded Systems, Automotive Networks, Data Extraction
-- **Tools:** BeautifulSoup, Requests, Selenium, Git, Linux
-- **Concepts:** Memory, Protocols, System Internals, Automation
-
----
-
-## ⚙️ Current Focus
-- Advanced CAN Bus analysis & injection logic  
-- ECU communication & automotive security  
-- Building intelligent scraping & automation systems  
-- Deepening low-level and kernel-level understanding  
-
----
-
-## 🕶️ Identity
-> root access is not given — it is taken.
-
----
-
-⚡ 0xEZIZ — turning signals, systems, and data into intelligence.
+> *root access is not given — it is taken.*
