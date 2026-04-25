@@ -12,7 +12,7 @@ I build, analyze, and reverse-engineer systems at the lowest level. My focus isn
 
 ### Featured Projects
 * **[DBCStudio](#)** — AI-powered CAN DBC generator and automotive data tooling platform. Built to streamline reverse engineering workflows.
-* **[ADU OpenPilot](#)** — Automotive cyber-platform for CAN exploitation, red-teaming, and safety layer bypass.
+* **[RedPilot](#)** — Automotive cyber-platform for CAN exploitation, red-teaming, and safety layer bypass.
 
 ### Tech Stack
 `Python` `C` `C++` `Assembly` `Linux` `CAN protocols` `Git` 
